@@ -1,5 +1,7 @@
 Jupyter notebooks from my univerity's Python course.
 
+While the actual code is in english, all comments are currently in polish. That might be subject to change in the future.
+
 Directories contents:
 1. Python basics.
 2. Python advanced elements. 
